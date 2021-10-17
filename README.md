@@ -1,3 +1,5 @@
+# I did this as a practice using 'useContext' hook which is useful as we can update the state in one compoennt and use it in several components witout having to worry to updates it in individual compoennts.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

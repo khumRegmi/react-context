@@ -1,4 +1,4 @@
-# I did this as a practice using 'useContext' hook which is useful as we can update the state in one compoennt and use it in several components witout having to worry to updates it in individual compoennts.
+# I did this as a practice using 'useContext' hook which is useful and powerful as we can update the state in one compoennt and use it in several components witout having to worry about updating it in individual compoennts.
 
 # Getting Started with Create React App
 
